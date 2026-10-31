@@ -84,11 +84,3 @@ A real-time multiplayer social deduction game for 3–12 players, live at [casus
 
 <!-- Diğer projeleri buraya aynı formatta ekle -->
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=turkermenes&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turkermenes&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
