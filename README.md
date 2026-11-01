@@ -25,7 +25,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
@@ -52,7 +51,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
 
 **AI / ML**
@@ -78,9 +76,6 @@ A real-time multiplayer social deduction game for 3–12 players, live at [casus
 - **Backend:** Java 21, Spring Boot 4, Spring WebSocket + STOMP for real-time communication
 - **Frontend:** React 19, TypeScript, Vite, Tailwind CSS 4
 - **Testing:** JUnit 5, Mockito, MockMvc, integration tests with a real STOMP client · Vitest, Testing Library
-- **Deployment:** Multi-stage Docker image on Render with a custom domain · alternative setup with Docker Compose + Caddy
-
-> 🔒 Source code is private. Happy to walk through it on request.
 
 <!-- Diğer projeleri buraya aynı formatta ekle -->
 
